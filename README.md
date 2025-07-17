@@ -1,5 +1,3 @@
-# cs2tradeorg
-
 # Privacy Policy
 This extension does not collect, process, or share any user data. All functionality operates locally in your browser, and no information is sent to external servers or third parties.
 
